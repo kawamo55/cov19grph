@@ -1,4 +1,6 @@
 #!/usr/bin/python3
+# programed by M.kawase Embed AI labo.
+#
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
